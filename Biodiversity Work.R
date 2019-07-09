@@ -10,6 +10,9 @@ library (vegan)
 install.packages("iNEXT")
 library (iNEXT)
 
+install.packages("ggplot2")
+library(ggplot2)
+
 
 
 input<-"C:/Users/EM11/Documents/DY99_Specimin_Recording"
